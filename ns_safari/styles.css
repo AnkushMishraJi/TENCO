@@ -168,3 +168,31 @@
     outline:none;
     transition:0.3s;
 }
+
+.contact input{
+    height:50px;
+    width:100%;
+    outline:none;
+    border:none;
+    color: gray;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 18px 14px 27px -3px rgba(0,0,0,0.72);
+-webkit-box-shadow: 18px 14px 27px -3px rgba(0,0,0,0.72);
+-moz-box-shadow: 18px 14px 27px -3px rgba(0,0,0,0.72);
+}
+
+.btn4{
+    height: 50px;
+    width: 25%;
+    font-weight: 600;
+    outline:none;
+    border: none;
+    background-color:yellowgreen;
+}
+
+.btn4:hover{
+    background-color: rgb(32, 30, 30);
+    color:white;
+    transition:0.6s;
+}
